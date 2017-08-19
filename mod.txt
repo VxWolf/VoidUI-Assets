@@ -1,0 +1,5 @@
+{
+  "Name": "VoidUI Textures",
+  "Author": "Xeletron",
+  "Description": "Texture files for VoidUI"
+}

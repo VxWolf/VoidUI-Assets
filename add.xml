@@ -1,0 +1,6 @@
+<table>
+	<texture path="guis/textures/VoidUI/hud_health"/>
+	<texture path="guis/textures/VoidUI/hud_weapons"/>
+	<texture path="guis/textures/VoidUI/hud_highlights"/>
+	<texture path="guis/textures/VoidUI/hud_extras"/>
+</table>
